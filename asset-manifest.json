@@ -1,0 +1,18 @@
+{
+  "files": {
+    "main.css": "/20-Challenge-React-Portfolio/static/css/main.49da1dbb.css",
+    "main.js": "/20-Challenge-React-Portfolio/static/js/main.4987b05c.js",
+    "static/media/RhymeBlock_Presentation_Preview.jpg": "/20-Challenge-React-Portfolio/static/media/RhymeBlock_Presentation_Preview.125acaff99deb83f86c4.jpg",
+    "static/media/me-silhouette.png": "/20-Challenge-React-Portfolio/static/media/me-silhouette.bf88b2fb246e2aa2fb04.png",
+    "static/media/blonde-guy-avatar.jpg": "/20-Challenge-React-Portfolio/static/media/blonde-guy-avatar.7510a85095df15ace59c.jpg",
+    "static/media/MusicMeetupPic.png": "/20-Challenge-React-Portfolio/static/media/MusicMeetupPic.843206abf187cae94243.png",
+    "static/media/SongSuggest_Presentation.png": "/20-Challenge-React-Portfolio/static/media/SongSuggest_Presentation.dd161ae7ed2223da21d0.png",
+    "index.html": "/20-Challenge-React-Portfolio/index.html",
+    "main.49da1dbb.css.map": "/20-Challenge-React-Portfolio/static/css/main.49da1dbb.css.map",
+    "main.4987b05c.js.map": "/20-Challenge-React-Portfolio/static/js/main.4987b05c.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.49da1dbb.css",
+    "static/js/main.4987b05c.js"
+  ]
+}
