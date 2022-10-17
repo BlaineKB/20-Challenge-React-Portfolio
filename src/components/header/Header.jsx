@@ -6,14 +6,14 @@ import HeaderSocialLinks from './HeaderSocialLinks'
 const Header = () => {
   return (
     <header>
-      <div className='container header-container'>
+      <div className='container header__container'>
         <h1> Blaine Brady</h1>
         <h4 className='text-light'>Fullstack Developer</h4>
         <HeaderSocialLinks/>
         <div className='mypic'>
           <img src={MyPic} alt="Avatar of me" />
         </div>
-        <a href="#contact" className='scroll-down'>Scroll Down</a>
+        <a href="#contact" className='scroll__down'>Scroll Down</a>
       </div>
     </header>
   )
